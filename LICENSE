@@ -1,0 +1,24 @@
+ attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+本仓库的文字内容与交互式作品采用
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+（知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议）授权。
+
+  署名 (BY):         使用本仓库内容时,必须署名原作者(高寒 / TechAstra星科技),
+                     并给出指向本仓库的链接。
+  非商业性使用 (NC):  不得用于商业目的。
+  相同方式共享 (SA): 在本作品基础上改编产生的新作品,必须以相同的协议发布。
+
+协议全文(中文):
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh
+
+协议全文(English):
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+------------------------------------------------------------------------------
+说明:仓库中的可运行代码与交互式 demo(如 .py / .js / .html 文件),
+如未来单独标注了其他协议(如 MIT),则以该文件标注的协议为准;
+未单独标注的,统一遵循本 CC BY-NC-SA 4.0 协议。
+
+本书《给码农讲透AI核心技术》的正式书稿(由出版社出版)不在本仓库公开,
+本仓库内容为配套视频系列《白话大模型》的文字稿及衍生交互式作品。

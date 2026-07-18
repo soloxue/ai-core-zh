@@ -1,0 +1,22 @@
+# 依赖与构建
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# 交互式 demo 的临时产物
+dist/
+build/
+*.log
+
+# 操作系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
