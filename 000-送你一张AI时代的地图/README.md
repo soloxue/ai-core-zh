@@ -8,8 +8,8 @@
 
 ## 视频
 
-- 微信视频号:TechAstra星科技
-- B站:TechAstra星科技
+- B站: https://www.bilibili.com/video/BV1mpu9zzEba/
+- 微信视频号:TechAstra星科技(微信视频号无外链,请于微信内搜索)
 - YouTube:(待上传)
 
 ## 文字稿
